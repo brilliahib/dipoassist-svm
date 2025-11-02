@@ -5,7 +5,7 @@
   "num_classes": 3,
   "class_names": [
     "Mual",
-    "Lapar",
+    "Dingin",
     "Sesak"
   ]
 }
