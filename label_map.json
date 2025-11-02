@@ -1,1 +1,9 @@
-{"0": "panggil_dokter", "1": "sakit_kepala", "2": "saya_haus"}
+{
+  "0": "Toilet",
+  "1": "Sesak",
+  "2": "Panas",
+  "3": "Tidur",
+  "4": "Mual",
+  "5": "Lapar",
+  "6": "Dingin"
+}

@@ -1,1 +1,14 @@
-{"num_features": 500, "model_type": "SVM", "kernel": "rbf", "num_classes": 3}
+{
+  "num_features": 500,
+  "model_type": "SVM + PCA Pipeline",
+  "num_classes": 7,
+  "class_names": [
+    "Toilet",
+    "Sesak",
+    "Panas",
+    "Tidur",
+    "Mual",
+    "Lapar",
+    "Dingin"
+  ]
+}
