@@ -2,10 +2,11 @@
   "num_features": 500,
   "model_type": "SVM",
   "kernel": "rbf",
-  "num_classes": 3,
+  "num_classes": 4,
   "class_names": [
     "Mual",
     "Sesak",
-    "Toilet"
+    "Toilet",
+    "Tidur"
   ]
 }
