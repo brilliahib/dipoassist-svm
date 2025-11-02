@@ -1,9 +1,5 @@
 {
-  "0": "Toilet",
-  "1": "Sesak",
-  "2": "Panas",
-  "3": "Tidur",
-  "4": "Mual",
-  "5": "Lapar",
-  "6": "Dingin"
+  "0": "Mual",
+  "1": "Lapar",
+  "2": "Sesak"
 }
