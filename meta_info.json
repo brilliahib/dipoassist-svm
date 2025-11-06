@@ -2,11 +2,13 @@
   "num_features": 500,
   "model_type": "SVM",
   "kernel": "rbf",
-  "num_classes": 4,
+  "num_classes": 6,
   "class_names": [
-    "Mual",
     "Sesak",
+    "Mual",
+    "Lapar",
+    "Dingin",
     "Toilet",
-    "Tidur"
+    "Panas"
   ]
 }
