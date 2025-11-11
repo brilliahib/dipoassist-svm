@@ -1,14 +1,14 @@
 {
   "num_features": 500,
-  "model_type": "SVM",
-  "kernel": "rbf",
-  "num_classes": 6,
+  "model_type": "KNN",
+  "n_neighbors": 5,
+  "weights": "distance",
+  "num_classes": 5,
   "class_names": [
-    "Sesak",
+    "Tidur",
     "Mual",
-    "Lapar",
     "Dingin",
     "Toilet",
-    "Panas"
+    "Panggil Dokter"
   ]
 }
